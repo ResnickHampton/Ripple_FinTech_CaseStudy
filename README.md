@@ -3,15 +3,17 @@
 
 ## Overview and Origin
 
-* Name of company?
+* Name of company? Ripple Labs, Inc
 
-* When was the company incorporated?
+* When was the company incorporated? The company was founded in 2012. The original name was Opencoin, it was remade Ripple Labs in 2015.
 
-* Who are the founders of the company?
+* Who are the founders of the company? Chris Larsen and Jed McCaleb
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? The idea of creating a decentralized monetary system was conceived by Ryan Fugger in 2004. He believed the technology would empower individuals and communities to create their own money.
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received? The sale of XRP cryptocurrency has been the primary source of funding but not the only source. $200 million dollars was rasised by New York based investment company Tetragon, Route 66 Ventures a Virginia-based venture capital firm as well as Japan’s SBI Holdings also investors.
+
+* How is the company funded? Ripple has evaluation of 10 billion.![image](https://user-images.githubusercontent.com/898144/110193170-5cfb3980-7e00-11eb-9187-f980ddae9739.png)
 
 
 ## Business Activities:

@@ -57,10 +57,10 @@ What solution does this company offer that their competitors do not or cannot of
 * Why are these technologies appropriate for your solution? These technologies are appropriate because its currently being used by Rippler for their Institutional
 
 ## Sources
-https://coinloan.io/article/the-complete-history-of-ripple-xrp/
-https://www.skalex.io/what-is-ripple/
-https://ripple.com/xrp/market-performance/
-https://www.toptal.com/finance/market-research-analysts/international-money-transfer
-https://builtin.com/fintech/fintech-payments-companies-examples
-https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
-https://fortunly.com/statistics/fintech-statistics/#gref
+* https://coinloan.io/article/the-complete-history-of-ripple-xrp/
+* https://www.skalex.io/what-is-ripple/
+* https://ripple.com/xrp/market-performance/
+* https://www.toptal.com/finance/market-research-analysts/international-money-transfer
+* https://builtin.com/fintech/fintech-payments-companies-examples
+* https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
+* https://fortunly.com/statistics/fintech-statistics/#gref
